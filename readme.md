@@ -1,13 +1,19 @@
 #PhShell
-一个用来学习Linux和c++的练习shell,能运行常用的shell命令
-<a href="#t1">已经实现的功能</a>
 
-##已经实现的功能  <a id="t1"/>
+一个用来学习Linux和c++的练习shell,能运行常用的shell命令
+
+<a href="#t1">已经实现的功能</a>
+<a href="#t2">改进空间和想法</a>
+<a href="#t3">小小的经验总结</a>
+
+<a id="t1"/>
+##已经实现的功能  
+
  - 最基本的执行程序
 ```
 $ pwd
 ```
- fork出一个子进程,再调用execvp()执行新程序
+   fork出一个子进程,再调用execvp()执行新程序
  
  -  输入输出重定向
 ```
@@ -52,6 +58,7 @@ $ set
   * test=hahaha
 
 ```
+
  - shell内建命令(cd ,exit)
 ```
 /home/pang/codes/MyShell/cmake-build-debug/phsh
@@ -64,3 +71,10 @@ cmake-build-debug  CMakeLists.txt  pch.h  practice  readme.md  src
 Process finished with exit code 0
 
 ```
+
+<a id="t2"/>
+##改进空间和想法
+
+
+<a id="t3"/>
+##小小的经验总结
