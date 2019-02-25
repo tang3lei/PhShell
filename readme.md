@@ -3,7 +3,9 @@
 一个用来学习Linux和c++的练习shell,能运行常用的shell命令
 
 <a href="#t1">已经实现的功能</a>
+
 <a href="#t2">改进空间和想法</a>
+
 <a href="#t3">小小的经验总结</a>
 
 <a id="t1"/>
@@ -73,8 +75,10 @@ Process finished with exit code 0
 ```
 
 <a id="t2"/>
+
 ##改进空间和想法
 
 
 <a id="t3"/>
+
 ##小小的经验总结
