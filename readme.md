@@ -1,6 +1,5 @@
 #PhShell
 一个用来学习Linux和c++的练习shell,能运行常用的shell命令
-##
 <a href="#t1">已经实现的功能</a>
 
 ##已经实现的功能  <a id="t1"/>
